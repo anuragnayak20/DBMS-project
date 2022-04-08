@@ -7,7 +7,6 @@ it makes the job of a cashier,accountant, and other employees easier by facilita
 checking, storage monitoring, accounting costs, and many more.
 
 # ER diagram:
-This the er diagram for the entire database
 <img width="493" alt="image" src="https://user-images.githubusercontent.com/95675913/162114736-36535154-ca8c-48cd-ab12-7fb63c81a7c2.png">
 
 # Table screenshots:

@@ -5,9 +5,13 @@ It is the database implementation of an Inventory Management System.
 Along with converting a bulky record keeping venture into a smooth streamlined digital database,
 it makes the job of a cashier,accountant, and other employees easier by facilitating easy inventory
 checking, storage monitoring, accounting costs, and many more.
+
 # ER diagram:
+This the er diagram for the entire database
 <img width="493" alt="image" src="https://user-images.githubusercontent.com/95675913/162114736-36535154-ca8c-48cd-ab12-7fb63c81a7c2.png">
-# Table screenshots:#
+
+# Table screenshots:
+ 
 <img width="322" alt="image" src="https://user-images.githubusercontent.com/95675913/162385899-ec35f823-4467-4bef-a39b-e5aa5d2da193.png">
 <img width="199" alt="image" src="https://user-images.githubusercontent.com/95675913/162385925-9ce1506f-9a70-44ab-acc0-7e56961a78c9.png">
 <img width="237" alt="image" src="https://user-images.githubusercontent.com/95675913/162385963-04376593-30f4-4218-b2ae-435164dd50c0.png">

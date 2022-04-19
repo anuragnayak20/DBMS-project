@@ -10,9 +10,22 @@ checking, storage monitoring, accounting costs, and many more.
 <img width="493" alt="image" src="https://user-images.githubusercontent.com/95675913/162114736-36535154-ca8c-48cd-ab12-7fb63c81a7c2.png">
 
 # Table screenshots:
- 
-<img width="322" alt="image" src="https://user-images.githubusercontent.com/95675913/162385899-ec35f823-4467-4bef-a39b-e5aa5d2da193.png">
-<img width="199" alt="image" src="https://user-images.githubusercontent.com/95675913/162385925-9ce1506f-9a70-44ab-acc0-7e56961a78c9.png">
-<img width="237" alt="image" src="https://user-images.githubusercontent.com/95675913/162385963-04376593-30f4-4218-b2ae-435164dd50c0.png">
-<img width="184" alt="image" src="https://user-images.githubusercontent.com/95675913/162386001-fdea5f65-83f7-4275-9dc2-20392f65a33a.png">
-<img width="130" alt="image" src="https://user-images.githubusercontent.com/95675913/162386046-ef9160bc-42b5-48a7-9dd2-f60dabcfeb66.png">
+### Orders:
+Table containing  all order info.
+<img width="336" alt="image" src="https://user-images.githubusercontent.com/95675913/163910844-306f7195-d8c7-4a5c-8737-6839aa8554f4.png">
+
+### Shipments:
+Table containing shipped orders info.
+<img width="354" alt="image" src="https://user-images.githubusercontent.com/95675913/163910956-24c2c736-13cb-4718-8209-b74ccbb1260c.png">
+
+### Items:
+Table containing availabe items info.
+<img width="233" alt="image" src="https://user-images.githubusercontent.com/95675913/163910986-246b6786-e3c1-4ab5-bd48-dbd98ea5da4d.png">
+
+### Inventory:
+Table containing inventory info.
+<img width="187" alt="image" src="https://user-images.githubusercontent.com/95675913/163911021-c868f91d-2d44-4022-8b1a-51a2f47957a5.png">
+
+### S_torage:
+Table containing storage info.
+<img width="244" alt="image" src="https://user-images.githubusercontent.com/95675913/163911047-4071da44-a547-4270-8fb5-80054bb24590.png">

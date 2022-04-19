@@ -35,6 +35,14 @@ Table containing storage info.
 
 <img width="244" alt="image" src="https://user-images.githubusercontent.com/95675913/163911047-4071da44-a547-4270-8fb5-80054bb24590.png">
 
+# Live SQL Script link:
+
+The script for the project is as follows. This can be used to generat the database at any time possible and also to
+
+obtain neccessary outputs for relevant commands.
+
+https://livesql.oracle.com/apex/livesql/s/ndafcqp2pi6trlc7b5fcyfdb8
+
 # DDL and DML:
 
 ```SQL
